@@ -2,7 +2,7 @@
 
     require '../vendor/autoload.php';
 
-    $elemente = new \App\HtmlElement;
+    $elemente = new \App\HtmlElement('p', [], 'Este es le contenido');
 
-    echo $element->render();
+    echo htmlentities($element->render(), ENT_QUOTES);
 
