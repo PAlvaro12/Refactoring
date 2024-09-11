@@ -4,6 +4,5 @@
 
     $elemente = new \App\HtmlElement;
 
-    echo "Hello Refactoring!";
+    echo $element->render();
 
-?>

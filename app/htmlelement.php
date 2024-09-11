@@ -6,7 +6,6 @@ Class HtmlElement
 {
     public function render()
     {
-        return 'HTML ELEMENT HERE'
+        return 'HTML ELEMENT HERE';
     }
 }
-?>
