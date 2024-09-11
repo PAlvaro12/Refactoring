@@ -1,0 +1,13 @@
+{
+    "name": "alvaro_crazyn/refactoring",
+    "description": "curzo de refactorización en Styde",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PAlvaro12",
+            "email": "202012669a@utea.edu.pe"
+        }
+    ],
+    "require": {}
+}
